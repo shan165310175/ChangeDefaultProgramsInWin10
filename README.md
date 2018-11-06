@@ -2,12 +2,16 @@
 
 #### 项目介绍
 
-    Change the default programs in Windows 10.
+    Change default programs in Windows 10.
     修改win10默认程序（修改文件关联)
+
+    csdn: https://blog.csdn.net/shan165310175/article/details/83450187
+    gitee地址：https://gitee.com/nothix/ChangeDefaultProgramsInWin10
+    github地址：https://github.com/shan165310175/ChangeDefaultProgramsInWin10
 
 #### 工程
 
-    使用vs2017编译 (microsoft visual studio 2017)
+    使用vs2017编译
 
 #### 使用
 
@@ -17,6 +21,7 @@
 
 ![avatar](snapshot.jpg)
 
-
-	文件后缀名： file extensions
-	默认程序路径： default program full path
+#### 如果运行失败，可以手动修改，很简单：
+![avatar](failure01.jpg)
+![avatar](failure02.jpg)
+![avatar](failure03.jpg)
